@@ -1,0 +1,14 @@
+/* print.css */
+
+body {
+    font-size: 20pt;
+}
+
+.table {
+    border-collapse: separate;
+    border-spacing: 50px; /* Adjust the value to increase or decrease the gap */
+}
+
+th, td {
+    padding: 50px; /* Optional: Add padding to cells for better spacing */
+}
