@@ -1,2 +1,1 @@
-# TIDA
-# Total Inpatient Day Calculator
+# TIDA # Total Inpatient Day Calculator
